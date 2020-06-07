@@ -1,0 +1,4 @@
+quart
+aioboto3
+marshmallow
+config-client
