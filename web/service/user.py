@@ -1,6 +1,10 @@
-def auth():
+from web.api import User
+
+
+def auth(username: str,
+         password: str):
     pass
 
 
-def signin():
+def register(user: User):
     pass
